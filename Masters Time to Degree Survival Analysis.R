@@ -16,7 +16,7 @@ library("ResourceSelection")
 
 #Import data -----
 #For guidance on data structure, review the Masters Time to Degree-Dictionary file
-Masters_TTD<-read_excel("C:/Users/angela.rockwell/University of Northern Colorado/IRE Team - Documents/Angela/Archive/AIR Forum 2024/Masters Time to Degree.xlsx")
+Masters_TTD<-read_excel("[your file location here]/Masters Time to Degree.xlsx")
 
 
 #1. Review the dataset -----
